@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/f7ca10c2-2297-4d09-ad6a-031b43cbcc07)
+<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="drawing" width=36/>
 
 
 
